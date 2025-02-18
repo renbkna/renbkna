@@ -1,6 +1,6 @@
 # Hi there, I'm Ren 🌺
 
-![Banner](https://www.dropbox.com/scl/fi/m57ioih2mdelx5eko025u/output.gif?rlkey=xini4r914rwadm2bmc76dah12&raw=1)
+![Banner](https://i.imgur.com/HazmpeF.gif)
 
 ---
 
