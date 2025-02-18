@@ -1,6 +1,6 @@
 # Hi there, I'm Ren 🌺
 
-![Banner](https://i.imgur.com/HazmpeF.gif)
+![Banner](./assets/output.gif)
 
 ---
 
