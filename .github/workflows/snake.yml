@@ -26,9 +26,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # I added the specific color codes here to match your purple/pink aesthetic
+          # color_snake: The moving snake head
+          # color_dots: Background, Low Activity, Med, High, Very High
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#d362f9&color_dots=#161b22,#3c1547,#6c2580,#a73bb8,#d362f9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
