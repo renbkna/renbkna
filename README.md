@@ -55,12 +55,12 @@
 <p align="center">
   <a href="https://github.com/renbkna/mikumikucrawler">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=renbkna&repo=project-one&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" width="400" alt="Project One" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=renbkna&repo=mikumikucrawler&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" width="400" alt="Miku Miku Crawler" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/renbkna/tyrian-nights">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=renbkna&repo=project-two&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" width="400" alt="Project Two" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=renbkna&repo=tyrian-night&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" width="400" alt="Tyrian Nights" />
   </a>
 </p>
 
