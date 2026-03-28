@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center" style="color: #888888;">
-  <samp>&#10216; existing in the static. &#10217;</samp>
+  <samp>&#10216; Hi... &#10217;</samp>
 </p>
 
 <br />
