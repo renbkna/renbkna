@@ -36,13 +36,11 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=d362f9" height="28" alt="Python" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=d362f9" height="28" alt=".NET" />
+  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=d362f9" height="28" alt="Rust" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Svelte-111111?style=flat-square&logo=svelte&logoColor=d362f9" height="28" alt="Svelte" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tauri-111111?style=flat-square&logo=tauri&logoColor=d362f9" height="28" alt="Tauri" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=d362f9" height="28" alt="Rust" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Svelte-111111?style=flat-square&logo=svelte&logoColor=d362f9" height="28" alt="Svelte" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=d362f9" height="28" alt="TypeScript" />
 </p>
