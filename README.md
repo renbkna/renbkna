@@ -18,11 +18,11 @@
 
 <p align="center">
   <a href="https://discord.com/users/303901271235100673">
-    <img src="https://img.shields.io/badge/discord-111111?style=flat-square&logo=discord&logoColor=d362f9" alt="Discord"/>
+    <img src="https://img.shields.io/badge/discord-111111?style=flat-square&logo=discord&logoColor=d362f9" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nberkanz@hotmail.com">
-    <img src="https://img.shields.io/badge/email-111111?style=flat-square&logo=gmail&logoColor=d362f9" alt="Email"/>
+    <img src="https://img.shields.io/badge/email-111111?style=flat-square&logo=gmail&logoColor=d362f9" alt="Email" />
   </a>
 </p>
 
@@ -32,19 +32,19 @@
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=d362f9" height="28" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=d362f9" height="28" alt="Java" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=d362f9" height="28" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=d362f9" height="28" alt="Python" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=d362f9" height="28" alt=".NET"/>
+  <img src="https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=d362f9" height="28" alt=".NET" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tauri-111111?style=flat-square&logo=tauri&logoColor=d362f9" height="28" alt="Tauri"/>
+  <img src="https://img.shields.io/badge/Tauri-111111?style=flat-square&logo=tauri&logoColor=d362f9" height="28" alt="Tauri" />
   <br /><br />
-  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=d362f9" height="28" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=d362f9" height="28" alt="Rust" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Svelte-111111?style=flat-square&logo=svelte&logoColor=d362f9" height="28" alt="Svelte"/>
+  <img src="https://img.shields.io/badge/Svelte-111111?style=flat-square&logo=svelte&logoColor=d362f9" height="28" alt="Svelte" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=d362f9" height="28" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=d362f9" height="28" alt="TypeScript" />
 </p>
 
 <br /><br />
@@ -54,13 +54,15 @@
 
 <p align="center">
   <a href="https://github.com/renbkna/mikumikucrawler">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=renbkna&repo=mikumikucrawler&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" width="400" alt="Miku Miku Crawler" />
+    <img src="https://github-readme-stats-renbkna.vercel.app/api/pin/?username=renbkna&repo=mikumikucrawler&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" alt="mikumikucrawler" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/renbkna/tyrian-nights">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=renbkna&repo=tyrian-night&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" width="400" alt="Tyrian Nights" />
+  <a href="https://github.com/renbkna/tyrian-night">
+    <img src="https://github-readme-stats-renbkna.vercel.app/api/pin/?username=renbkna&repo=tyrian-night&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" alt="tyrian-night" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/renbkna/yt-dlp-ui">
+    <img src="https://github-readme-stats-renbkna.vercel.app/api/pin/?username=renbkna&repo=yt-dlp-ui&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" alt="yt-dlp-ui" />
   </a>
 </p>
 
@@ -71,7 +73,7 @@
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=renbkna&bg_color=00000000&color=d362f9&line=d362f9&point=ffffff&hide_border=true&hide_title=true">
   <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=renbkna&bg_color=00000000&color=d362f9&line=d362f9&point=ffffff&hide_border=true&hide_title=true"
-      width="100%" alt="Activity Graph"/>
+      width="100%" alt="Activity Graph" />
 </picture>
 
 <br />
