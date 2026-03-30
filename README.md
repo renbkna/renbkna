@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://github.com/renbkna/mikumikucrawler">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=renbkna&repo=mikumikucrawler&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true&v=1" width="400" alt="Miku Miku Crawler" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=renbkna&repo=mikumikucrawler&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" width="400" alt="Miku Miku Crawler" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/renbkna/tyrian-nights">
