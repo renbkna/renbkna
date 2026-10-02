@@ -1,7 +1,10 @@
 <div align="center">
 
 <img src="./assets/output.gif" width="100%" alt="Ren's hero animation" />
-<img src="./assets/header.svg" width="100%" alt="ren // renbkna — ⟨ Hi. ⟩" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" alt="ren // renbkna — ⟨ Hi. ⟩" />
+</picture>
 
 <p>
 <a href="https://discord.com/users/303901271235100673"><img src="https://img.shields.io/badge/discord-111111?style=flat-square&logo=discord&logoColor=d362f9" height="24" alt="Discord" /></a>
